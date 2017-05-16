@@ -1,3 +1,6 @@
+# I talked with Chris after class. We were trying to get an uppercase method
+# to cooperate. The method is upcase. 
+
 require_relative 'states.rb'
 
 # Prompt user for name, city, state. Print out info with state abbreviation.
