@@ -15,4 +15,4 @@
 + https://git-scm.com/docs/gittutorial
 + http://tryruby.org/levels/1/challenges/0
 ---
-I wrote this is Markdown. Check this out!
+I wrote this is Markdown. [Check this out!](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
