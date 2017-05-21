@@ -1,5 +1,5 @@
 ## Resources and Notes on GDI Fargo Intro to Ruby Class
-# [Fargo Class Notes](https://kaileeagray.github.io/ruby_gdi_fargo/)
+### [Fargo Class Notes](https://kaileeagray.github.io/ruby_gdi_fargo/)
 ---
 # Ruby
 + Class notes from https://github.com/kcjonesevans/gdidayton-intro-ruby
@@ -15,4 +15,4 @@
 + https://git-scm.com/docs/gittutorial
 + http://tryruby.org/levels/1/challenges/0
 ---
-I wrote this is Markdown. [Check this out!](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+I wrote this in Markdown. [Check this out!](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
