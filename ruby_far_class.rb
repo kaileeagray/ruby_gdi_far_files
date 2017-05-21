@@ -10,7 +10,7 @@ learners = ["Katy", "Hannah", "Shiny", "Karena", "Chris", "jango0019", "Linda", 
 # To access value, use learner_info["name"]
 
 # OR Google more about symbols in Ruby to use this syntax learner_info = {name: "favorite"}
-# To access value, use learner_info[:name]
+# To access value, use learner_info[:name]. Read http://www.troubleshooters.com/codecorn/ruby/symbols.htm
 
 # Note key cannot be numeric.
 # Help me remember your names! What's your favorite show/movie/book/hobby?
