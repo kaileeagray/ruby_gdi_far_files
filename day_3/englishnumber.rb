@@ -9,10 +9,19 @@ def englishNumber(number)
 		number_as_string = "zero"
 	elsif number == 100
 		number_as_string = "one hundred"
-	elsif 
-		#take care of 1-10
-		#take care of 11-19
-		#take care of 20,30,40,50,60,70,80,90
+	elsif number % 1 != 0
+		number_as_string = "You didn't give me an integer"
+	elsif 0 < number < 100
+		# build an array containing the words that represent 1 through 10
+		# build an array containing the words that represent 11 through 19
+		# build an array containing the words that represent 20,30,40,50,60,70,80,90
+
+		# Remeber %? 
+		# => To get hundreds place, number / 100, store this in a variable
+		# => To get tens place, (number % 100) / 10, store this in a variable
+		# => to get ones place, number% 10, store this in a variable
+
+		# Use the variables from the 100s, 10s, and 1s places to build your number_as_string
 	else
 		number_as_string = "You didn't give me a number between 0 and 100"
 	end

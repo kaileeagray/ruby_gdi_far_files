@@ -7,7 +7,7 @@ def ask(question)
 end
 
 
-name = ask "What is your name?"
-puts name
-location = ask "Where is the magic 8 ball program?"
+users_name = ask("What is your name?")
+puts users_name
+location = ask("Where is the magic 8 ball program?")
 puts location
