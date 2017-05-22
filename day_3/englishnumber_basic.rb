@@ -31,6 +31,7 @@ def englishNumber(number)
     numString += "one hundred"
   end
 
+  # I didn't handle the - for the tens and ones place. Can you fix?!
   if tens > 0
     if hundreds > 0
       numString += " "
