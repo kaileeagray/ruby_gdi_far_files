@@ -1,4 +1,4 @@
-def englishNumber number
+def englishNumber(number)
   if number < 0  # No negative numbers.
     return 'Please enter a number that isn\'t negative.'
   end
