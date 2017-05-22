@@ -12,6 +12,7 @@
 + https://learnrubythehardway.org/book/
 ---
 ## Git
++ https://help.github.com/articles/set-up-git/
 + https://github.com/HackYourFuture/Git
 + https://try.github.io/levels/1/challenges/1
 + https://git-scm.com/docs/gittutorial
