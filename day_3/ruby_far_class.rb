@@ -9,15 +9,26 @@ learners = ["Katy", "Hannah", "Shiny", "Karena", "Chris", "jango0019", "Linda", 
 # We're going to use hash rocket syntax learner_info = {"name" => "favorite"}. 
 # To access value, use learner_info["name"]
 
+gdi_crew_info = {
+  "Brian" => "golf",
+  "Kailee" => "bike riding",
+  "Chris" => "football - Broncos",
+  "Shannon" => "Beans (dog)",
+  "Susan" => "Netflix",
+  "Karena" => "reading",
+  "Brennen" => "Prim (dog)",
+  "Katy" => "anime",
+  "Hannah" => "interactive fiction",
+  "Shiny" => "soil"
+}
+
+
 # OR Google more about symbols in Ruby to use this syntax learner_info = {name: "favorite"}
 # To access value, use learner_info[:name]. Read http://www.troubleshooters.com/codecorn/ruby/symbols.htm
 
 # Note key cannot be numeric.
 # Help me remember your names! What's your favorite show/movie/book/hobby?
 # I'll start!
-
-gdi_crew_info = {}
-gdi_crew_info["Kailee"] = "bike riding"
 
 puts "Check out our hash!"
 puts gdi_crew_info

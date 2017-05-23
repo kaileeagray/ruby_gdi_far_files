@@ -22,9 +22,11 @@ def englishNumber(number)
                "sixty",   "seventy",   "eighty",   "ninety"]
   teenagers = ["eleven",  "twelve",    "thirteen", "fourteen", "fifteen",
                "sixteen", "seventeen", "eighteen", "nineteen"]
-
+  # 0
   hundreds = number / 100
+  # 9
   tens = (number % 100) / 10
+  # 9 
   ones = number % 10
 
   if hundreds == 1
@@ -43,16 +45,20 @@ def englishNumber(number)
       numString += teenagers[ones - 1]
       return numString
     else
+      # numString = "ninety"
       numString += tensPlace[tens - 1]
     end
   end
 
+  # 9
   if ones > 0
     if tens > 0
+      numString = "ninety "
       numString += " "
     end
-
+    numString
     numString += onesPlace[ones - 1]
+    # numString = "ninety nine"
   end
 
 
