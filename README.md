@@ -3,11 +3,12 @@
 ---
 ##
 + [New-Item](https://msdn.microsoft.com/en-us/powershell/reference/5.1/microsoft.powershell.management/new-item), Windows (like touch in bash)
---
+---
 ## Ruby
 + Class notes from https://github.com/kcjonesevans/gdidayton-intro-ruby
 + http://poignant.guide/book/
 + https://www.codeschool.com/courses/try-ruby
++ https://www.ruby-lang.org/en/documentation/
 + https://pine.fm/LearnToProgram/
 + https://www.railstutorial.org/book
 + https://www.ruby-lang.org/en/documentation/quickstart/
