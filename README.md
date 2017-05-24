@@ -11,9 +11,11 @@
 + https://www.ruby-lang.org/en/documentation/
 + https://pine.fm/LearnToProgram/
 + https://www.railstutorial.org/book
-+ https://www.ruby-lang.org/en/documentation/quickstart/
 + https://online.pragmaticstudio.com/courses/ruby
 + https://learnrubythehardway.org/book/
++ [every method needs an object](http://rubylearning.com/satishtalim/more_on_ruby_methods.html)
++ https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/
++ http://ruby-for-beginners.rubymonstas.org/index.html
 ---
 ## Git
 + https://help.github.com/articles/set-up-git/

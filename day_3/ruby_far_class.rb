@@ -22,18 +22,6 @@ gdi_crew_info = {
   "Shiny" => "soil"
 }
 
-
-# OR Google more about symbols in Ruby to use this syntax learner_info = {name: "favorite"}
-# To access value, use learner_info[:name]. Read http://www.troubleshooters.com/codecorn/ruby/symbols.htm
-
-# Note key cannot be numeric.
-# Help me remember your names! What's your favorite show/movie/book/hobby?
-# I'll start!
-
-puts "Check out our hash!"
-puts gdi_crew_info
-puts "\n"
-
 puts "#{"**Name**".ljust(30, '.')} **Favorite Thing**"
 puts "-"*49
 
